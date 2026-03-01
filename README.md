@@ -75,12 +75,12 @@ Created an interactive dashboard in Power BI including:
 - Monthly Sales Chart
 - Category-wise Sales
 - Top Customers
-- City Revenue Distribution
 
 ---
 
 ## 📷 Project Screenshots
-(Add your Power BI dashboard screenshots here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ce4dc12-cf92-41eb-961f-d7e0ca5d3447" />
+
 
 ---
 
@@ -94,7 +94,7 @@ Created an interactive dashboard in Power BI including:
 
 ## 🔗 Project Files
 - Task2_EDA.ipynb
-- Dataset.csv
+- rawdata1.csv
 - PowerBI_Dashboard.pbix
 
 ---
